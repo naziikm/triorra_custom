@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Triorra Custom
 
 Custom ERPNext app for Triorra 
@@ -38,3 +39,7 @@ This app can use GitHub Actions for CI. The following workflows are configured:
 ### License
 
 mit
+=======
+# triorra_custom
+Custom ERPNext app for TriOrra jewellery manufacturing
+>>>>>>> a3fa48c67cd26cca609818f9b53d7ddc34a464e5
